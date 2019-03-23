@@ -1,16 +1,45 @@
 body{
    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-   background: black;
-   color:white;
+   background: #e9859e;
 }
 
 a {
-  color:white;
+  color: white;
   text-decoration: none;
 }
 
 #nav{
+  font-size: 6em;
   width:40%;
   left:20%;
   position:static;
+  border:1px solid #ccc;
+  border-width:1px 0;
+  list-style:none;
+  margin-left:30%;
+  margin-top:0%;
+  padding:0;
+  text-align:center;
+}
+
+#nav-inactive{
+  font-size: 2em;
+  width:10%;
+  float:right;
+
+  position:static;
+  list-style:none;
+  margin-left:30%;
+  margin-top:0%;
+  padding-right:2%;
+  text-align:center;
+}
+
+.about_text{
+  margin-top: 5%;
+  padding:2%; 
+  width:80%;
+  font-size: 7em;
+  color:white;
+  border:1px solid   #d9b3ff;
 }
