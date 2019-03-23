@@ -45,6 +45,7 @@ a {
 }
 
 .info_text{
+  text-decoration: line-through;
   margin-top: 2%;
   padding:2%; 
   width:80%;
