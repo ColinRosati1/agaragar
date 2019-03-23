@@ -1,0 +1,16 @@
+body{
+   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+   background: black;
+   color:white;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
+#nav{
+  width:40%;
+  left:20%;
+  position:static;
+}
